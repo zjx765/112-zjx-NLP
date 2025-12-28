@@ -1,5 +1,6 @@
 # 112-zjx-NLP
 # Files architecture:
+```text
 ├── Data/                       # Dataset directory
 │   ├── test.jsonl              # Test set (Chinese-English pairs)
 │   ├── train_10k.jsonl         # Small training set for debugging
